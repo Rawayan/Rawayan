@@ -118,7 +118,10 @@ My goal is to build applications that are:
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rawayan&show_icons=true&hide_border=true&rank_icon=github" alt="Rawfir Ayan's GitHub Stats"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Rawayan&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true"
+    alt="Rawfir Ayan's GitHub Stats"
+  />
 </p>
 
 <p align="center">
