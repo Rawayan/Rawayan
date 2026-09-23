@@ -6,15 +6,36 @@ Full Stack Developer • CSE Graduate • Software Engineering Enthusiast
 
 <p align="center">
   <a href="https://github.com/Rawayan">
-    <img src="https://img.shields.io/badge/◈%20GitHub-Rawayan-181717?style=for-the-badge&labelColor=181717" alt="GitHub"/>
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+      width="120"
+      height="40"
+      style="border-radius: 20px;"
+    />
   </a>
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/raufir-ayan">
-    <img src="https://img.shields.io/badge/◈%20LinkedIn-Raufir%20Ayan-0A66C2?style=for-the-badge&labelColor=0A66C2" alt="LinkedIn"/>
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+      width="120"
+      height="40"
+      style="border-radius: 20px;"
+    />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:rawfir.ayan@gmail.com">
-    <img src="https://img.shields.io/badge/✉%20Email-Get%20in%20Touch-EA4335?style=for-the-badge&labelColor=EA4335" alt="Email"/>
+    <img
+      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+      width="120"
+      height="40"
+      style="border-radius: 20px;"
+    />
   </a>
 </p>
+
 
 ---
 
