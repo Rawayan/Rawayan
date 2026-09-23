@@ -6,15 +6,15 @@ Full Stack Developer • CSE Graduate • Software Engineering Enthusiast
 
 <p align="center">
   <a href="https://github.com/Rawayan">
-    <img src="https://img.icons8.com/fluency/96/github.png" width="52" alt="GitHub"/>
+    <img src="https://img.icons8.com/fluency/96/github.png" width="42" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/raufir-ayan">
-    <img src="https://img.icons8.com/fluency/96/linkedin.png" width="52" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/fluency/96/linkedin.png" width="42" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:rawfir.ayan@gmail.com">
-    <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="52" alt="Email"/>
+    <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="42" alt="Email"/>
   </a>
 </p>
 
@@ -119,13 +119,6 @@ My goal is to build applications that are:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Rawayan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Rawayan&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
@@ -136,15 +129,15 @@ My goal is to build applications that are:
 🤝 Connect with Me
 <p align="center">
   <a href="https://github.com/Rawayan">
-    <img src="https://img.icons8.com/fluency/96/github.png" width="22" alt="GitHub"/>
+    <img src="https://img.icons8.com/fluency/96/github.png" width="28" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/raufir-ayan">
-    <img src="https://img.icons8.com/fluency/96/linkedin.png" width="22" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/fluency/96/linkedin.png" width="28" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:rawfir.ayan@gmail.com">
-    <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="22" alt="Email"/>
+    <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="28" alt="Email"/>
   </a>
 </p>
 
