@@ -119,7 +119,7 @@ My goal is to build applications that are:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Rawayan&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=Rawayan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
     alt="Rawfir Ayan's GitHub Stats"
   />
 </p>
