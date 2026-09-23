@@ -6,35 +6,18 @@ Full Stack Developer • CSE Graduate • Software Engineering Enthusiast
 
 <p align="center">
   <a href="https://github.com/Rawayan">
-    <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-      width="120"
-      height="40"
-      style="border-radius: 20px;"
-    />
+    <img src="https://cdn.simpleicons.org/github/181717" width="50" height="50" alt="GitHub"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/raufir-ayan">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-      width="120"
-      height="40"
-      style="border-radius: 20px;"
-    />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="50" height="50" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:rawfir.ayan@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-      width="120"
-      height="40"
-      style="border-radius: 20px;"
-    />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="50" height="50" alt="Email"/>
   </a>
 </p>
+
 
 
 ---
