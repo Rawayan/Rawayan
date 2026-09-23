@@ -6,20 +6,14 @@ Full Stack Developer • CSE Graduate • Software Engineering Enthusiast
 
 <p align="center">
   <a href="https://github.com/Rawayan">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="28" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/◈%20GitHub-Rawayan-181717?style=for-the-badge&labelColor=181717" alt="GitHub"/>
   </a>
-  <span>&nbsp;•&nbsp;</span>
   <a href="https://linkedin.com/in/raufir-ayan">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/◈%20LinkedIn-Raufir%20Ayan-0A66C2?style=for-the-badge&labelColor=0A66C2" alt="LinkedIn"/>
   </a>
-  <span>&nbsp;•&nbsp;</span>
   <a href="mailto:rawfir.ayan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28" alt="Email"/>
+    <img src="https://img.shields.io/badge/✉%20Email-Get%20in%20Touch-EA4335?style=for-the-badge&labelColor=EA4335" alt="Email"/>
   </a>
-</p>
-
-<p align="center">
-  <sub>Let's build something meaningful together.</sub>
 </p>
 
 ---
