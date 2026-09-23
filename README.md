@@ -115,23 +115,38 @@ My goal is to build applications that are:
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Statistics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Rawayan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    alt="Rawfir Ayan's GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=Rawayan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+    alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rawayan&hide_border=true" alt="GitHub Streak"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Rawayan&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
 
 🤝 Connect with Me
-<p align="center"> <a href="https://linkedin.com/in/raufir-ayan" target="_blank">LinkedIn</a> • <a href="mailto:rawfir.ayan@gmail.com">Email</a> • <a href="https://github.com/Rawayan" target="_blank">GitHub</a> </p> <p align="center"><i>⭐️ Thanks for stopping by — always open to collaborating on interesting projects!</i></p>
+<p align="center">
+  <a href="https://github.com/Rawayan">
+    <img src="https://img.icons8.com/fluency/96/github.png" width="22" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/raufir-ayan">
+    <img src="https://img.icons8.com/fluency/96/linkedin.png" width="22" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:rawfir.ayan@gmail.com">
+    <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="22" alt="Email"/>
+  </a>
+</p>
 
 <p align="center">
   <i>Building. Learning. Improving. One commit at a time. 🚀</i>
