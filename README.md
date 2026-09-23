@@ -1,94 +1,143 @@
-<h1 align="center">Hi there, I'm Raufir Ayan 👋</h1>
+<h1 align="center">Hi 👋, I'm Rawfir Ayan</h1>
 
-<h3 align="center">Full Stack Developer | CSE Graduate</h3>
+<h3 align="center">
+Full Stack Developer • CSE Graduate • Software Engineering Enthusiast
+</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/raufir-ayan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/Rawayan">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/raufir-ayan">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:rawfir.ayan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Rawayan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
-### 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 BSc in Computer Science & Engineering, **Daffodil International University** (Passing Year: 2026)
-- 💻 Completed **Full Stack Developer** course — Python, Django, DRF, React.js, PostgreSQL, Postman
-- 📚 Currently learning **Full Stack Web Engineering** — Next.js, TypeScript, MongoDB, and AI-assisted development
-- 🔗 Passionate about building **scalable web applications and REST APIs**
-- 🤖 Exploring **AI-Assisted Coding** and building with an **AI-first engineering mindset**
-- 📫 Reach me at **rawfir.ayan@gmail.com**
+I'm a **Full Stack Developer** and **Computer Science & Engineering graduate** who enjoys building modern, scalable, and user-focused web applications.
 
----
+My development journey started with the **Python/Django ecosystem**, where I built applications and REST APIs, and I'm currently expanding into the **modern JavaScript/TypeScript ecosystem** with React, Next.js, Node.js, and MongoDB.
 
-### 🛠️ Tech Stack
+I enjoy turning ideas into practical software and continuously improving my skills through hands-on projects.
 
-**Languages & Core**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</p>
-
-**Backend & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/BetterAuth-4B32C3?style=flat-square&logo=auth0&logoColor=white" />
-</p>
-
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-</p>
-
-**Database**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" />
-</p>
-
-**Tools & Practices**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-</p>
+* 🎓 BSc in Computer Science & Engineering — **Daffodil International University**
+* 📅 Graduated in **2026**
+* 🐍 Completed Full Stack Development training with **Python & Django**
+* ⚛️ Currently studying **Full Stack Web Engineering**
+* 🚀 Interested in building scalable web applications and REST APIs
+* 🤖 Exploring **AI-assisted development and modern engineering practices**
+* 💡 Always learning, building, and improving
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Technical Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rawayan&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Raufir's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rawayan&hide_border=true" alt="Raufir's Streak" height="165"/>
+### Backend Development
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rawayan&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="165"/>
+### Frontend Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+</p>
+
+### Programming & Database
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+</p>
+
+### Tools & Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BetterAuth-000000?style=for-the-badge"/>
 </p>
 
 ---
 
+## 📚 Learning Journey
 
-### 🤝 Connect with Me
+### ✅ Completed — Full Stack Developer
+
+**Python • Django • Django REST Framework • React.js • PostgreSQL • Postman**
+
+Focused on building scalable web applications, backend systems, and REST APIs using the Python/Django ecosystem.
+
+### 🔄 Currently Learning — Full Stack Web Engineering
+
+**HTML • CSS • Tailwind CSS • Node.js • TypeScript • React • Next.js • BetterAuth • MongoDB • Mongoose • Express.js • Git & GitHub**
+
+Also exploring:
+
+* 🤖 AI-Assisted Coding
+* 🧠 AI Mindset & Engineering
+* 🏗️ Modern full-stack architecture
+* 🔐 Authentication & authorization
+* 🌐 Scalable web application development
+
+---
+
+My goal is to build applications that are:
+
+* ⚡ Fast and responsive
+* 🔐 Secure and maintainable
+* 🧩 Well-structured
+* 📈 Scalable
+* 🎨 User-friendly
+
+---
+
+## 📊 GitHub
 
 <p align="center">
-  <a href="https://linkedin.com/in/raufir-ayan" target="_blank">LinkedIn</a> •
-  <a href="mailto:rawfir.ayan@gmail.com">Email</a> •
-  <a href="https://github.com/Rawayan" target="_blank">GitHub</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rawayan&show_icons=true&hide_border=true&rank_icon=github" alt="Rawfir Ayan's GitHub Stats"/>
 </p>
 
-<p align="center"><i>⭐️ Thanks for stopping by — always open to collaborating on interesting projects!</i></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rawayan&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/Rawayan">
+    <img src="https://img.shields.io/badge/GitHub-Rawayan-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://linkedin.com/in/raufir-ayan">
+    <img src="https://img.shields.io/badge/LinkedIn-Raufir%20Ayan-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:rawfir.ayan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rawfir.ayan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Building. Learning. Improving. One commit at a time. 🚀</i>
+</p>
+
