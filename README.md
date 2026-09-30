@@ -45,40 +45,55 @@ I enjoy turning ideas into practical software and continuously improving my skil
 ### Backend Development
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python" width="55" alt="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=django" width="55" alt="Django"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=django" width="55" alt="Django REST Framework"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" width="55" alt="Node.js"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" width="55" alt="Express.js"/>
 </p>
 
 ### Frontend Development
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=html" width="55" alt="HTML5"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="55" alt="CSS3"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="55" alt="Tailwind CSS"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="55" alt="React"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" width="55" alt="Next.js"/>
 </p>
 
 ### Programming & Database
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=typescript" width="55" alt="TypeScript"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" width="55" alt="JavaScript"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" width="55" alt="PostgreSQL"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" width="55" alt="MongoDB"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongoose" width="55" alt="Mongoose"/>
 </p>
 
 ### Tools & Engineering
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BetterAuth-000000?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=git" width="55" alt="Git"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" width="55" alt="Postman"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/BetterAuth-000000?style=flat-square&logo=better-auth&logoColor=white" width="55" height="55" alt="BetterAuth"/>
 </p>
 
 ---
